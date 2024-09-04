@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
 
-    int number1 = 2; // Numbers needed to swap
+    int number1 = 2; // Numbers needed to be swapped
     int number2 = 1;
-    int temp; // temporary integer to hold the value
+    int temp; // temporary integer to hold the values
     
     cout << "The values needed to be swapped are " << number1 << " and " << number2 << endl;
     
